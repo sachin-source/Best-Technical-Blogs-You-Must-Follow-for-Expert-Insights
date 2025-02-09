@@ -15,7 +15,7 @@ A deep dive into how GitHub's engineers build, scale, and maintain one of the wo
 This blog covers real-world engineering challenges, API optimizations, deployments, and open-source tools used to power GitHub's services.
 Gain insights into best practices, system architecture, and performance improvements directly from GitHub's internal teams. 🚀
 
-Website : https://github.blog/engineering?ref=sachin-source/Top-technical-blogs-which-everyone-should-look
+Website : [github.blog/engineering](https://github.blog/engineering?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
