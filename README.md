@@ -5,6 +5,9 @@ This repository features insightful articles on software development, system des
 Whether you're a beginner or an expert, these blogs provide in-depth knowledge, tutorials, and real-world experiences to enhance your skills.
 Contribute by adding your favorite resources and help build a comprehensive knowledge hub for the tech community. 🚀
 
+#### Note :
+This Repo is maintained by following and referring multiple blogs, sites, and other resources available on the internet.  
+
 ## Table of contents
 
 1. [GitHub Engineering Blog](#GitHub-Engineering-Blog)
