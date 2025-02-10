@@ -13,6 +13,7 @@ This Repo is maintained by following and referring multiple blogs, sites, and ot
 ## Table of contents
 
 1. [GitHub Engineering Blog](#GitHub-Engineering-Blog)
+2. [LinkedIn Engineering](#linkedin-engineering)
 
 
 ## GitHub Engineering Blog
@@ -26,5 +27,15 @@ Website : [github.blog/engineering](https://github.blog/engineering?ref=sachin-s
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>  
 
+## LinkedIn Engineering
+A rich collection of insights on infrastructure, data, open-source, AI, product design, trust engineering, scaling, and data science.  
+Learn how LinkedIn's engineers tackle complex challenges, optimize performance, and build scalable systems.  
+Perfect for developers and tech enthusiasts looking to explore cutting-edge engineering solutions and industry best practices. 🚀
+
+Website : [engineering.linkedin.com](https://engineering.linkedin.com?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div> 
 
 (...To be continued)
