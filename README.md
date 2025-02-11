@@ -64,4 +64,15 @@ Website : [slack.engineering](https://slack.engineering?ref=sachin-source/Top-te
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+## Stripe Engineering
+Get an inside look at Stripe's system design, payment infrastructure, and real-time financial technology.
+Learn how Stripe tackles usage-based billing, machine learning for performance monitoring, fraud detection with Stripe Radar, and the future of real-time payments.
+Plus, stay updated on the latest purchases, payments, and banking innovations shaping the fintech industry. 💳🚀
+
+Website : [stripe.com/blog](https://stripe.com/blog?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 (...To be continued)
