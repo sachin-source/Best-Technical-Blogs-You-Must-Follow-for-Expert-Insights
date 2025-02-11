@@ -50,4 +50,17 @@ Website : [engineering.atspotify.com](https://engineering.atspotify.com?ref=sach
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div> 
 
+## Slack Engineering
+Slack's official engineering blog for innovations, migrations, and AI-powered solutions.
+Explore insights on automation, DevOps, GitHub Actions, optimization, architecture, infrastructure.
+Also has good blogs on AI to empower engineers.
+A great resource for developers looking to learn from real-world scalability, DevOps, and automation challenges. 🚀  
+
+
+Website : [slack.engineering](https://slack.engineering?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 (...To be continued)
