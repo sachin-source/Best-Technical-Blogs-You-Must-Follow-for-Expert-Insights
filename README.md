@@ -36,6 +36,17 @@ Website : [engineering.linkedin.com](https://engineering.linkedin.com?ref=sachin
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>  
+
+## Spotify Engineering
+A good handbook of technology insights, technical case studies, and best practices from Spotify's engineering teams.
+Explains how Spotify builds and scales its platform, tackles technical challenges, and innovates in AI, data, infrastructure, and software development.
+A must-read for developers interested in real-world engineering solutions and industry-leading practices. 🎧🚀
+
+Website : [engineering.atspotify.com](https://engineering.atspotify.com?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div> 
 
 (...To be continued)
