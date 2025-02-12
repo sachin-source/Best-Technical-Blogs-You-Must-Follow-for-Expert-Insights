@@ -82,8 +82,8 @@ This section is to stay updated with the latest advancements in AI, cloud comput
 These blogs feature best practices, engineering innovations, and productivity-enhancing solutions for developers working on diverse projects.
 A valuable resource for anyone looking to explore cutting-edge technology and development insights. 🔥🚀
 
-Website : [devblogs.microsoft.com](https://devblogs.microsoft.com/?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)  
-Website : [engineering-at-microsoft](https://devblogs.microsoft.com/engineering-at-microsoft/?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)  
+1. [devblogs.microsoft.com](https://devblogs.microsoft.com/?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)  
+2. [engineering-at-microsoft](https://devblogs.microsoft.com/engineering-at-microsoft/?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)  
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
