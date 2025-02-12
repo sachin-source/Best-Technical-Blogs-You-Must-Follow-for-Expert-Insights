@@ -17,6 +17,7 @@ This Repo is maintained by following and referring multiple blogs, sites, and ot
 3. [Spotify Engineering](#spotify-engineering)
 4. [Slack Engineering](#slack-engineering)
 5. [Stripe Engineering](#stripe-engineering)
+6. [Microsoft developer blogs](#microsoft-developer-blogs)
 
 
 ## GitHub Engineering Blog
