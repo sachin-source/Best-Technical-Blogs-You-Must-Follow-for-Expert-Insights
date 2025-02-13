@@ -18,6 +18,7 @@ This Repo is maintained by following and referring multiple blogs, sites, and ot
 4. [Slack Engineering](#slack-engineering)
 5. [Stripe Engineering](#stripe-engineering)
 6. [Microsoft developer blogs](#microsoft-developer-blogs)
+7. [Meta Engineering](#meta-engineering)
 
 
 ## GitHub Engineering Blog
