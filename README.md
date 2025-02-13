@@ -89,4 +89,15 @@ A valuable resource for anyone looking to explore cutting-edge technology and de
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+## Meta engineering
+Unlash and discover the technology powering Meta's ecosystem, platform, and infrastructure.
+This page dives into advanced machine learning, AR/VR innovations, video engineering, networking, traffic management, open-source contributions, security, and developer infrastructure implemented by Meta.
+These blogs help us gain insights from Meta's engineers on building scalable, high-performance systems that shape the future of digital experiences. 🚀
+
+Website : [engineering.fb.com](https://engineering.fb.com/?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)  
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 (...To be continued)
