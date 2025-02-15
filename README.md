@@ -113,4 +113,16 @@ Website : [dropbox.tech](https://dropbox.tech/?ref=sachin-source/Top-technical-b
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+
+## Netflix Techblog
+This page expose the "behind the scenes" of Netflix's technology stack, covering proxy settings, database optimizations, server infrastructure, engineering guidelines, and performance enhancements.
+Learn how Netflix builds and scales its platform to deliver seamless streaming experiences worldwide.
+A must-read for developers interested in high-performance systems and cloud-scale engineering
+
+Website : [netflixtechblog.com](https://netflixtechblog.com?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 (...To be continued)
