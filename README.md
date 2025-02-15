@@ -126,4 +126,12 @@ Website : [netflixtechblog.com](https://netflixtechblog.com?ref=sachin-source/To
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+
+## Uber Engineering Blog
+Get an inside look at the technology powering Uber, from backend architecture and data engineering to AI, machine learning, mobile, and web development.  
+Learn how Uber builds scalable, high-performance systems to optimize ridesharing, delivery, and mobility services.  
+A great resource for developers interested in real-world engineering challenges and innovations.
+
+Website : [www.uber.com/en-RS/blog/engineering](https://www.uber.com/en-RS/blog/engineering/?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)
+
 (...To be continued)
