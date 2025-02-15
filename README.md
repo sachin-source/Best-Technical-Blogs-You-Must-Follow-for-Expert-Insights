@@ -20,6 +20,7 @@ This Repo is maintained by following and referring multiple blogs, sites, and ot
 6. [Microsoft developer blogs](#microsoft-developer-blogs)
 7. [Meta Engineering](#meta-engineering)
 8. [Dropbox tech blog](#dropbox-tech-blog)
+9. [Netflix Techblog](#netflix-techblog)
 
 
 ## GitHub Engineering Blog
