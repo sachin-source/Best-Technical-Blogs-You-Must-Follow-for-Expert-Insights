@@ -135,4 +135,12 @@ A great resource for developers interested in real-world engineering challenges 
 
 Website : [www.uber.com/en-RS/blog/engineering](https://www.uber.com/en-RS/blog/engineering/?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)
 
+## The airbnb tech blog
+
+Explore how Airbnb engineers and data scientists build a world of belonging through AI, machine learning, data science, mobile and web development, infrastructure, and open-source contributions.
+Gain insights into engineering best practices, scalability, and career growth in tech.
+A must-read for those interested in innovative solutions behind a global platform. 🏡🚀
+
+Website : [medium.com/airbnb-engineering](https://medium.com/airbnb-engineering/?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)
+
 (...To be continued)
