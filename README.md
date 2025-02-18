@@ -23,6 +23,7 @@ This Repo is maintained by following and referring multiple blogs, sites, and ot
 9. [Netflix Techblog](#netflix-techblog)
 10. [Uber Engineering Blog](#uber-engineering-blog)
 11. [The Airbnb Tech blog](#the-airbnb-tech-blog)
+12. [AWS Architecture Blog](#aws-architecture-blog)
 
 
 ## GitHub Engineering Blog
