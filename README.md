@@ -152,4 +152,16 @@ Website : [medium.com/airbnb-engineering](https://medium.com/airbnb-engineering/
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+## AWS Architecture Blog
+
+Stay ahead with in-depth insights on cloud architecture, serverless computing, machine learning, and AWS best practices.
+Explore topics like Amazon S3, DynamoDB, CloudFront, Kubernetes, Lambda, cost optimization, and Well-Architected Framework.
+Discover top architecture posts, customer solutions, and AWS innovations to build scalable, high-performance cloud applications. ☁️🚀
+
+Website : [aws.amazon.com/blogs/architecture](https://https://aws.amazon.com/blogs/architecture/?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 (...To be continued)
