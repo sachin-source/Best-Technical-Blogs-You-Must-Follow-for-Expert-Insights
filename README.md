@@ -165,4 +165,17 @@ Website : [aws.amazon.com/blogs/architecture](https://https://aws.amazon.com/blo
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+## Atlassian Blog
+
+This blog page gives insights about their latest events, blogs and company news.  
+This has good insights on Jira, Bitbucket, Trello, and Jira Align, and talks also about the buzy topics of current world such as AI, Agile, DevOps, Git, continuous delivery, IT service management, and project/work management.  
+This let learn how developers and enterprises leverage Atlassian tools to enhance collaboration, productivity, and software delivery.  
+Best blog to stay updated with the latest innovations and engineering stories from inside Atlassian.  
+
+Website : [www.atlassian.com/blog/developer](https://www.atlassian.com/blog/developer?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 (...To be continued)
