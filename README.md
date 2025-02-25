@@ -24,6 +24,7 @@ This Repo is maintained by following and referring multiple blogs, sites, and ot
 10. [Uber Engineering Blog](#uber-engineering-blog)
 11. [The Airbnb Tech blog](#the-airbnb-tech-blog)
 12. [AWS Architecture Blog](#aws-architecture-blog)
+13. [Atlassian Blog](#atlassian-blog)
 
 
 ## GitHub Engineering Blog
