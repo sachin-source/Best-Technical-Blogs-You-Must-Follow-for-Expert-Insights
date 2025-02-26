@@ -32,7 +32,7 @@ A deep dive into how GitHub's engineers build, scale, and maintain one of the wo
 This blog covers real-world engineering challenges, API optimizations, deployments, and open-source tools used to power GitHub's services.
 Gain insights into best practices, system architecture, and performance improvements directly from GitHub's internal teams. 🚀
 
-Website : [github.blog/engineering](https://github.blog/engineering?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)
+Website : [github.blog/engineering](https://github.blog/engineering)
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -43,7 +43,7 @@ A rich collection of insights on infrastructure, data, open-source, AI, product 
 Learn how LinkedIn's engineers tackle complex challenges, optimize performance, and build scalable systems.  
 Perfect for developers and tech enthusiasts looking to explore cutting-edge engineering solutions and industry best practices. 🚀
 
-Website : [engineering.linkedin.com](https://engineering.linkedin.com?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)
+Website : [engineering.linkedin.com](https://engineering.linkedin.com)
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -54,7 +54,7 @@ A good handbook of technology insights, technical case studies, and best practic
 Explains how Spotify builds and scales its platform, tackles technical challenges, and innovates in AI, data, infrastructure, and software development.
 A must-read for developers interested in real-world engineering solutions and industry-leading practices. 🎧🚀
 
-Website : [engineering.atspotify.com](https://engineering.atspotify.com?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)
+Website : [engineering.atspotify.com](https://engineering.atspotify.com)
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -67,7 +67,7 @@ Also has good blogs on AI to empower engineers.
 A great resource for developers looking to learn from real-world scalability, DevOps, and automation challenges. 🚀  
 
 
-Website : [slack.engineering](https://slack.engineering?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)
+Website : [slack.engineering](https://slack.engineering)
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -78,7 +78,7 @@ Get an inside look at Stripe's system design, payment infrastructure, and real-t
 Learn how Stripe tackles usage-based billing, machine learning for performance monitoring, fraud detection with Stripe Radar, and the future of real-time payments.
 Plus, stay updated on the latest purchases, payments, and banking innovations shaping the fintech industry. 💳🚀
 
-Website : [stripe.com/blog](https://stripe.com/blog?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)
+Website : [stripe.com/blog](https://stripe.com/blog)
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -89,8 +89,8 @@ This section is to stay updated with the latest advancements in AI, cloud comput
 These blogs feature best practices, engineering innovations, and productivity-enhancing solutions for developers working on diverse projects.
 A valuable resource for anyone looking to explore cutting-edge technology and development insights. 🔥🚀
 
-1. [devblogs.microsoft.com](https://devblogs.microsoft.com/?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)  
-2. [engineering-at-microsoft](https://devblogs.microsoft.com/engineering-at-microsoft/?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)  
+1. [devblogs.microsoft.com](https://devblogs.microsoft.com/)  
+2. [engineering-at-microsoft](https://devblogs.microsoft.com/engineering-at-microsoft/)  
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -101,7 +101,7 @@ Unlash and discover the technology powering Meta's ecosystem, platform, and infr
 This page dives into advanced machine learning, AR/VR innovations, video engineering, networking, traffic management, open-source contributions, security, and developer infrastructure implemented by Meta.
 These blogs help us gain insights from Meta's engineers on building scalable, high-performance systems that shape the future of digital experiences. 🚀
 
-Website : [engineering.fb.com](https://engineering.fb.com/?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)  
+Website : [engineering.fb.com](https://engineering.fb.com/)  
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -112,7 +112,7 @@ This page explains how Dropbox simplifies productivity through innovations in cl
 Dives into topics like security, mobile development, machine learning, frontend and application engineering, and infrastructure scaling.
 Plus, gives insights into Dropbox's engineering culture and best practices for building seamless digital experiences. ☁️🚀
 
-Website : [dropbox.tech](https://dropbox.tech/?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)  
+Website : [dropbox.tech](https://dropbox.tech/)  
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -124,7 +124,7 @@ This page expose the "behind the scenes" of Netflix's technology stack, covering
 Learn how Netflix builds and scales its platform to deliver seamless streaming experiences worldwide.
 A must-read for developers interested in high-performance systems and cloud-scale engineering
 
-Website : [netflixtechblog.com](https://netflixtechblog.com?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)
+Website : [netflixtechblog.com](https://netflixtechblog.com)
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -136,7 +136,7 @@ Get an inside look at the technology powering Uber, from backend architecture an
 Learn how Uber builds scalable, high-performance systems to optimize ridesharing, delivery, and mobility services.  
 A great resource for developers interested in real-world engineering challenges and innovations.
 
-Website : [www.uber.com/en-RS/blog/engineering](https://www.uber.com/en-RS/blog/engineering/?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)
+Website : [www.uber.com/en-RS/blog/engineering](https://www.uber.com/en-RS/blog/engineering/)
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -148,7 +148,7 @@ Explore how Airbnb engineers and data scientists build a world of belonging thro
 Gain insights into engineering best practices, scalability, and career growth in tech.
 A must-read for those interested in innovative solutions behind a global platform. 🏡🚀
 
-Website : [medium.com/airbnb-engineering](https://medium.com/airbnb-engineering/?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)
+Website : [medium.com/airbnb-engineering](https://medium.com/airbnb-engineering/)
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -160,7 +160,7 @@ Stay ahead with in-depth insights on cloud architecture, serverless computing, m
 Explore topics like Amazon S3, DynamoDB, CloudFront, Kubernetes, Lambda, cost optimization, and Well-Architected Framework.
 Discover top architecture posts, customer solutions, and AWS innovations to build scalable, high-performance cloud applications. ☁️🚀
 
-Website : [aws.amazon.com/blogs/architecture](https://https://aws.amazon.com/blogs/architecture/?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)
+Website : [aws.amazon.com/blogs/architecture](https://https://aws.amazon.com/blogs/architecture/)
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -173,7 +173,18 @@ This has good insights on Jira, Bitbucket, Trello, and Jira Align, and talks als
 This let learn how developers and enterprises leverage Atlassian tools to enhance collaboration, productivity, and software delivery.  
 Best blog to stay updated with the latest innovations and engineering stories from inside Atlassian.  
 
-Website : [www.atlassian.com/blog/developer](https://www.atlassian.com/blog/developer?ref=sachin-source/Top-technical-blogs-which-everyone-should-look)
+Website : [www.atlassian.com/blog/developer](https://www.atlassian.com/blog/developer)
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Canva Engineering Blog
+
+Page maintained for UI/UX, backend development, machine learning, infrastructure, security, and data platforms that power Canva's design ecosystem.  
+Good place to explore engineering best practices, scalability solutions, and innovative technologies used to build a seamless creative experience for millions of users worldwide. 
+
+Website : [www.canva.dev/blog/engineering](https://www.canva.dev/blog/engineering/)
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
